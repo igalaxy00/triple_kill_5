@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">triple_kill_7</string>
+    <string name="about">about</string>
+    <string name="back">back</string>
+    <string name="fragment_1">fragment_1</string>
+    <string name="to_second">to_second</string>
+    <string name="to_about">to_about</string>
+    <string name="fragment_2">fragment_2</string>
+    <string name="to_first">to_first</string>
+    <string name="to_third">to_third</string>
+    <string name="fragment_3">fragment_3</string>
+</resources>
